@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmodaHegde
-- 👀 I’m interested in Backend dev
-- 🌱 I’m currently learning Advanced DSA
-- 💞️ I’m looking to collaborate on JAVA applications dev
+- 👀 I’m interested in building your data & AI infra.
+- 🌱 I’m currently learning how neural networks can be used to model particulate matter behaviour.
 - 📫 Hit me up on amodahegde@gmail.com
 
 <!---
